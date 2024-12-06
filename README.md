@@ -1,2 +1,2 @@
-# flask-Struct
+# medusa
 template for flask project
